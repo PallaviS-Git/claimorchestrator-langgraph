@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pydantic>=2
+redis
+langgraph
+langchain
+langchain-core
+
+pytest
+requests
+
